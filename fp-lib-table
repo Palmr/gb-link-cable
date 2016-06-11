@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name gb-link)(type KiCad)(uri \\192.168.0.15\san\workspace\KiCAD\gb-link-cable\gb-link-socket.pretty)(options "")(descr "Gameboy link socket"))
+)

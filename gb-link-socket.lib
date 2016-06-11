@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# gb-link-socket
+#
+DEF gb-link-socket GB 0 40 Y Y 1 F N
+F0 "GB" 0 -450 60 H V C CNN
+F1 "gb-link-socket" 0 -550 60 H V C CNN
+F2 "" -200 0 60 H V C CNN
+F3 "" -200 0 60 H V C CNN
+DRAW
+X VDD35 1 300 0 200 D 50 50 1 1 I
+X SO 2 -100 0 200 D 50 50 1 1 I
+X SI 3 200 0 200 D 50 50 1 1 I
+X SD 4 -200 0 200 D 50 50 1 1 I
+X SC 5 100 0 200 D 50 50 1 1 I
+X GND 6 -300 0 200 D 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
