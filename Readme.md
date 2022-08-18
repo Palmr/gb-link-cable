@@ -12,4 +12,4 @@ This is my result, it's very basic but after sending the gerbers to OSHPark I go
 
 ![With a variety of headers soldered on](images/with-headers.jpg)
 
-More about how I made it can be found on my blog: http://www.palmr.co.uk/blog/26/Game+Boy+Link+Cable+Breakout+Board
+More about how I made it can be found on my blog: https://palmr.co.uk/posts/26-gameboy-link-cable-breakout/
