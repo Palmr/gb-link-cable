@@ -13,3 +13,12 @@ This is my result, it's very basic but after sending the gerbers to OSHPark I go
 ![With a variety of headers soldered on](images/with-headers.jpg)
 
 More about how I made it can be found on my blog: https://palmr.co.uk/posts/26-gameboy-link-cable-breakout/
+
+## Licence
+
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This project — schematics, board layout, gerbers and documentation — is licensed under a
+[Creative Commons Attribution 4.0 International Licence](https://creativecommons.org/licenses/by/4.0/) by Nick Palmer.
+
+You are free to share and adapt the design, including commercially, as long as you give appropriate credit.
